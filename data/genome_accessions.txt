@@ -1,0 +1,14 @@
+Phylum	Species	Strain	Isolate	Assembly	Accession	"BUSCO completeness (Fungi, n = 758)"	Reference
+Blastocladiomycota	Allomyces arbusculus	CZEUM1637	Burma 1F	ASM2760470v1	GCA_027604705.1	"C:79.8%[S:77.2%,D:2.6%],F:4.5%,M:15.7%"	Stajich et al. 2020
+Blastocladiomycota	Allomyces javanicus	CZEUM1638	California 12	ASM2760464v1	GCA_027604645.1	"C:77.2%[S:71.9%,D:5.3%],F:3.7%,M:19.1%"	Stajich et al. 2020
+Blastocladiomycota	Allomyces macrogynus	ATCC38327	NA	A_macrogynus_V3	GCA_000151295.1	"C:84.2%[S:27.7%,D:56.5%],F:3.3%,M:12.5%"	Russ et al. 2010
+Blastocladiomycota	Blastocladiella britannica	CZEUM0711	JEL0711	Blabri1	GCA_025349905.2	"C:69.4%[S:69.0%,D:0.4%],F:7.5%,M:23.1%"	Amses et al. 2022
+Blastocladiomycota	Blastocladiella emersonii	ATCC22665	NA	blem_2022	GCA_025594325.1	"C:81.9%[S:80.6%,D:1.3%],F:3.6%,M:14.5%"	Leonard et al. 2022
+Blastocladiomycota	Catenaria anguillulae	NA	PL171	Catan2	GCA_002102555.1	"C:72.2%[S:43.8%,D:28.4%],F:6.7%,M:21.1%"	Mondo et al. 2016
+Blastocladiomycota	Coelomomyces lativittatus	NA	CIRM-AVA-1-Meiospore	CoeloLatMeio_1.0_UCR	GCA_026937265.1	"C:46.0%[S:45.6%,D:0.4%],F:15.3%,M:38.7%"	"Amses et al. 2022, Ettinger et al. 2023"
+Blastocladiomycota	Coelomomyces lativittatus	NA	CIRM-AVA-1-Amber	CoeloLatAmber_1.0_UCR	GCA_026928455.1	"C:45.7%[S:45.3%,D:0.4%],F:13.7%,M:40.6%"	Ettinger et al. 2023
+Blastocladiomycota	Coelomomyces lativittatus	NA	CIRM-AVA-1-Orange	CoeloLatOrange_1.0_UCR	GCA_026937105.1	"C:38.5%[S:38.5%,D:0.0%],F:16.6%,M:44.9%"	Ettinger et al. 2023
+Blastocladiomycota	Paraphysoderma sedebokerense	CZEUM0821	JEL0821	Parsed1	GCA_025602915.1	"C:83.4%[S:78.9%,D:4.5%],F:5.5%,M:11.1%"	Amses et al. 2022
+Blastocladiomycota	Sorochytrium milnesiophthora	CZEUM2018	S1865.1	ASM5162452v1	GCA_051624525.1	"C:77.1%[S:75.9%,D:1.2%],F:7.9%,M:15.0%"	this study
+Sanchytriomycota	Amoeboradix gromovi	NA	X-113	ASM1898522v1	GCA_018985225.1	"C:42.7%[S:42.2%,D:0.5%],F:9.4%,M:47.9%"	Galindo et al. 2021
+Sanchytriomycota	Sanchytrium tribonematis	NA	X-128	ASM1898523v1	GCA_018985235.1	"C:42.9%[S:41.8%,D:1.1%],F:10.2%,M:46.9%"	Galindo et al. 2021

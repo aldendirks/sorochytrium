@@ -1,0 +1,7 @@
+.DS_store
+*/.DS_store
+*/*/.DS_store
+*/*/*/.DS_store
+archives/
+data/archives
+scripts/archives
